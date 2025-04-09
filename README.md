@@ -23,13 +23,13 @@ Her başlık altında, web uygulamalarının güvenliğini sağlamak için test 
 
 Projeyi yerel olarak çalıştırmak için şu adımları takip edebilirsiniz:
 
-    Projeyi klonlayın:
+Projeyi klonlayın:
 
-git clone https://github.com/enoskom/Owasp-wstg.git
+	git clone https://github.com/enoskom/Owasp-wstg.git
 
 Proje dosyasına girin:
 
-cd Owasp-wstg
+	cd Owasp-wstg
 
 Türkçe çeviriyi incelemek için istediğiniz dosyayı açabilirsiniz.
 
